@@ -1,1 +1,1 @@
- I modified it in parernt repository to raise merge confict.
+modified line1 in branch2.
