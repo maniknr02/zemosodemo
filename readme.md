@@ -1,1 +1,1 @@
-modified line1 in branch1
+modified line1 in branch2.
